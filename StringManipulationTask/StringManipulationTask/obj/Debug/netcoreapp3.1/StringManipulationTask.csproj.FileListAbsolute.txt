@@ -1,0 +1,14 @@
+C:\Users\rioga\source\repos\StringManipulationTask\StringManipulationTask\obj\Debug\netcoreapp3.1\StringManipulationTask.csproj.AssemblyReference.cache
+C:\Users\rioga\source\repos\StringManipulationTask\StringManipulationTask\obj\Debug\netcoreapp3.1\StringManipulationTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rioga\source\repos\StringManipulationTask\StringManipulationTask\obj\Debug\netcoreapp3.1\StringManipulationTask.AssemblyInfoInputs.cache
+C:\Users\rioga\source\repos\StringManipulationTask\StringManipulationTask\obj\Debug\netcoreapp3.1\StringManipulationTask.AssemblyInfo.cs
+C:\Users\rioga\source\repos\StringManipulationTask\StringManipulationTask\obj\Debug\netcoreapp3.1\StringManipulationTask.csproj.CoreCompileInputs.cache
+C:\Users\rioga\source\repos\StringManipulationTask\StringManipulationTask\bin\Debug\netcoreapp3.1\StringManipulationTask.exe
+C:\Users\rioga\source\repos\StringManipulationTask\StringManipulationTask\bin\Debug\netcoreapp3.1\StringManipulationTask.deps.json
+C:\Users\rioga\source\repos\StringManipulationTask\StringManipulationTask\bin\Debug\netcoreapp3.1\StringManipulationTask.runtimeconfig.json
+C:\Users\rioga\source\repos\StringManipulationTask\StringManipulationTask\bin\Debug\netcoreapp3.1\StringManipulationTask.runtimeconfig.dev.json
+C:\Users\rioga\source\repos\StringManipulationTask\StringManipulationTask\bin\Debug\netcoreapp3.1\StringManipulationTask.dll
+C:\Users\rioga\source\repos\StringManipulationTask\StringManipulationTask\bin\Debug\netcoreapp3.1\StringManipulationTask.pdb
+C:\Users\rioga\source\repos\StringManipulationTask\StringManipulationTask\obj\Debug\netcoreapp3.1\StringManipulationTask.dll
+C:\Users\rioga\source\repos\StringManipulationTask\StringManipulationTask\obj\Debug\netcoreapp3.1\StringManipulationTask.pdb
+C:\Users\rioga\source\repos\StringManipulationTask\StringManipulationTask\obj\Debug\netcoreapp3.1\StringManipulationTask.genruntimeconfig.cache
